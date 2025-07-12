@@ -1,3 +1,3 @@
-function exploreNature() {
-  alert("Welcome to the beauty of nature 🌿🌞🌊");
+function showLifeCycle() {
+  alert("🍼 Cub → 🧒 Juvenile → 🧔 Sub-Adult → 🦁 Adult → 👑 Dominant Male/Female");
 }
